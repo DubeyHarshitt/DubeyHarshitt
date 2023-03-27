@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harshit Dubey</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/b2db124c402f36f256fdf0f0a21820d4/9183c63c3a6737f8-31/s540x810/e28754840841b423c0c4a91e24f303c5dcc7c0a5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyharshitt&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyharshitt" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://noteshubonline.000webhostapp.com/](https://noteshubonline.000webhostapp.com/)
+
+- 📫 How to reach me *harshitdubey02004@gmail.com*
+
+- ⚡ Fun fact *{ no fun :( }*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
