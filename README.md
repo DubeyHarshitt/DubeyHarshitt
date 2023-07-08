@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyharshitt&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyharshitt" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://noteshubonline.000webhostapp.com/](https://dubeyharshitt.github.io/HarshitPortfolio/)
+- 👨‍💻 All of my projects are available at [https://dubeyharshitt.github.io/HarshitPortfolio/](https://dubeyharshitt.github.io/HarshitPortfolio/)
 
 - 📫 How to reach me *harshitdubey02004@gmail.com*
 
