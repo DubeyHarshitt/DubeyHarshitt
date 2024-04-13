@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, gsap,locomotive**
 
-- 📫 How to reach me harshit.dubey23@aiml.sce.edu.in **jay.tiwari23@aiml.sce.edu.in**
+- 📫 How to reach me harshit.dubey23@aiml.sce.edu.in **harshit.dubey23@aiml.sce.edu.**
 
 - ⚡ Fun fact **Web**
 
