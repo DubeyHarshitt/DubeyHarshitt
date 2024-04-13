@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="twitter.com/HarshittDubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pain0555" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_harshit.20_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__jayyyy21__" height="30" width="40" /></a>
+<a href="https://x.com/HarshittDubey?t=buEcqZdYTFWyO6BUJ1BZ4g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HarshittDubey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_harshit.20_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshit.20_" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/__pain__05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="__pain__05" height="30" width="40" /></a>
 </p> -->
 
