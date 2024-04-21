@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit </h1>
 <h3 align="center">Web-Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/9oXbwZ2TqqE7opNH6](https://images.app.goo.gl/9oXbwZ2TqqE7opNH6)">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZjb21yc3Zuc3EwNGpxbWJ4YmRrNWdla3Fmd2xrZmljMTRicGNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="harshittdubey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DubeyHarshitt&label=Profile%20views&color=0e75b6&style=flat" alt="DubeyHarshitt" /> </p>
 
 - 🔭 I’m currently working on MERN Stack 
 
