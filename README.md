@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit </h1>
 <h3 align="center">Web-Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/9oXbwZ2TqqE7opNH6">
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/9oXbwZ2TqqE7opNH6](https://images.app.goo.gl/9oXbwZ2TqqE7opNH6)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="harshittdubey" /> </p>
 
