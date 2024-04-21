@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit </h1>
 <h3 align="center">Web-Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/b2db124c402f36f256fdf0f0a21820d4/9183c63c3a6737f8-31/s540x810/e28754840841b423c0c4a91e24f303c5dcc7c0a5.gif">
+<img align="right" alt="Coding" width="400" src="[https://64.media.tumblr.com/b2db124c402f36f256fdf0f0a21820d4/9183c63c3a6737f8-31/s540x810/e28754840841b423c0c4a91e24f303c5dcc7c0a5.gif](https://images.app.goo.gl/9oXbwZ2TqqE7opNH6)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="jaytiwari05" /> </p>
 
