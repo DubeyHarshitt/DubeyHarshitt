@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit </h1>
+<h1 align="center">Hi 👋, I'm Harshit Dubey </h1>
 <h3 align="center">Web-Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZjb21yc3Zuc3EwNGpxbWJ4YmRrNWdla3Fmd2xrZmljMTRicGNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
