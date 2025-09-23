@@ -20,8 +20,10 @@
 <br/>
 
 ## 🚀 About Me
+## 👨‍💻 About Me in JavaScript
 
-\`\`\`javascript
+```javascript
+
 class HarshitDubey {
   constructor() {
     this.name = "Harshit Dubey";
@@ -54,8 +56,8 @@ class HarshitDubey {
 
 const harshit = new HarshitDubey();
 console.log(harshit.getSkills());
-\`\`\`
 
+```
 <br/>
 
 ## 🛠️ Tech Arsenal
