@@ -20,7 +20,6 @@
 <br/>
 
 ## 🚀 About Me
-## 👨‍💻 About Me in JavaScript
 
 ```javascript
 
